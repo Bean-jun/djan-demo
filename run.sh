@@ -1,0 +1,1 @@
+docker run -itd -p 8000:8000 blogsystem:latest
